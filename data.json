@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Nausherwan Baig",
+      "age": 22,
+      "image": "https://i.imgur.com/Gi7bzp1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Hamza Rasheed",
+      "age": 32,
+      "image": "https://i.imgur.com/oInHeGN.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Huzaifa Imran",
+      "age": 26,
+      "image": "https://i.imgur.com/RxXTY7a.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Hassan Jalal",
+      "age": 30,
+      "image": "https://i.imgur.com/7DbuHIS.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Sannan samad",
+      "age": 27,
+      "image" : "https://i.imgur.com/8QWLggF.jpeg"
+    }
+]
